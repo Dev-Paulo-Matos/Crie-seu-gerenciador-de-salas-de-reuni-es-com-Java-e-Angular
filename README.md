@@ -45,4 +45,4 @@ ng new client-room
 
 
 
-# Crie-seu-gerenciador-de-salas-de-reuni-es-com-Java-e-Angular
+# Crie-seu-gerenciador-de-salas-de-reunioes-com-Java-e-Angular
